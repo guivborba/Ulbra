@@ -1,0 +1,115 @@
+body{
+	font-family:'Courier New', Courier, monospace;
+	background-color: #352C35;
+}
+.tudo{
+    width: 50%;			
+	margin: 0 auto; 
+	text-align: center;
+	padding: 40px;	
+	background-color: #ffffff;
+}
+.linha{
+	clear: both; 
+}
+.itens
+{
+	float: left;
+}
+.circle {
+	height: 10px;
+	width: 10px;
+	background-color:#352C35  ;
+	border-radius: 50%;
+	float: right;
+	margin-left: 10px;
+}	
+#imagem{
+    width: 30%;
+    height: 30px;
+    float:left;
+    margin-top: 2%;
+    
+}
+img{
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 4px solid #e2bf24;
+    margin:auto;
+}
+#contato{
+    width: 55%;
+    height: 30px;
+    float:left;         
+    text-align: left;
+    vertical-align: middle;
+    font-size: 15px;
+    margin-top: 4.2%;
+    margin-bottom: 100px;
+}
+ .tituloDados{
+	color:#e2bf24;
+    font-weight: 550;
+    
+}
+h1{
+	background-color: #e2bf24;
+	border-radius: 8px;
+    width: 96%;
+	height: 30px;
+	padding-top: 3px;			
+	margin-bottom: 30px;
+    margin: 0 auto;
+	font-weight: 700;
+	font-size: 25px;
+}
+h2{
+	margin-bottom: 0px;
+	color: #e2bf24;
+	text-align: left;
+}
+h3{
+	margin-bottom: 0px;
+	color: #e2bf24;
+	text-align: left;
+}
+h4{
+	margin-bottom: 0;
+}
+hr{
+	margin-top: 5px;
+    background-color: #352C35 ;
+}
+p{
+	margin-top: 0;
+}
+#objetivos{	
+    margin: 2%;
+	text-align: justify;
+}
+#formacao{
+	margin: 2%;
+	text-align: left;
+}
+#coluna1{
+	width: 45%;
+	float: left;
+	text-align: left;
+	margin-left: 2%;	
+	margin-right: 2%;		
+}
+#coluna2
+{
+	float: left;			
+	background-color:#e2bf24;
+	width: 1px;
+	height: 300px;
+}
+#coluna3{
+	width: 45%;
+	float: left; 
+	text-align: left;
+	margin-left: 2%;	
+	margin-right: 2%;
+}
